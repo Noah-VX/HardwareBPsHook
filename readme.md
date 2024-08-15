@@ -82,10 +82,10 @@ int main() {
 
 Clone the repository:
 
-git clone https://github.com/your-username/hardware-breakpoint-hooking.git
-cd hardware-breakpoint-hooking
+git clone https://github.com/Noah-VX/HardwareBPsHook.git
+cd HardwareBPsHook
 
-###Compile the code:
+Compile the code:
 
 Use a C compiler like GCC or MSVC to compile the code on a Windows machine.
 Run the example:
