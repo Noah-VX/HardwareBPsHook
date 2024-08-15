@@ -77,18 +77,22 @@ int main() {
     return 0;
 }
 
+```
+### Installation and Setup
 
-Installation and Setup
 Clone the repository:
+
 git clone https://github.com/your-username/hardware-breakpoint-hooking.git
 cd hardware-breakpoint-hooking
-Compile the code:
+
+###Compile the code:
 
 Use a C compiler like GCC or MSVC to compile the code on a Windows machine.
 Run the example:
 
 Execute the compiled binary to see the hooking in action with MessageBoxA and Sleep.
-Requirements
+
+###Requirements
 Windows Operating System (x86 or x64)
 C Compiler (GCC, MSVC, etc.)
 Windows SDK (for access to Windows APIs)
