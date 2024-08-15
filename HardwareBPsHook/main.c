@@ -1,4 +1,4 @@
-// @NUL0x4C | @mrd0x : MalDevAcademy
+// Noah-VX
 
 #include <Windows.h>
 #include <stdio.h>
